@@ -1,27 +1,40 @@
-{"tasks":[
+{
+  "tasks": [
     {
-     "id":1,
-     "text":"Terminar primer modulo de Angular",
-     "day":"Diciembre 28 a las 12:00",
-     "reminder": true
-    },
-    {
-      "id":2,
-      "text":"Terminar primer modulo de Angular",
-      "day":"Diciembre 28 a las 12:00",
+      "id": 1,
+      "text": "Terminar primer modulo de Angular",
+      "day": "Diciembre 28 a las 12:00",
       "reminder": true
     },
     {
-        "id":3,
-        "text":"Hacer las compras cena de fin de año",
-        "day":"Diciembre 29 a las 17:00",
-        "reminder": true
+      "id": 2,
+      "text": "Terminar primer modulo de Angular",
+      "day": "Diciembre 28 a las 12:00",
+      "reminder": true
     },
     {
-        "id":4,
-        "text":"Investigar sobre Bootstrap",
-        "day":"Diciembre 30 a las 19:00",
-        "reminder": true
+      "text": "Salir a correr",
+      "day": "viernes 21 hs",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Estudiar Angular",
+      "day": "jueves 18 hs",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Comprar comida para mascotas",
+      "day": "miercoles11 hs",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Terminar proyecto task list",
+      "day": "miercoles 11:00 hs",
+      "reminder": true,
+      "id": 6
     }
-]
+  ]
 }
